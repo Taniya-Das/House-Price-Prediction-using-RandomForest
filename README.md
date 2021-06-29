@@ -1,4 +1,4 @@
-# House Price Prediction Using Random Forest Regression Model
+# House Price Prediction Using Random Forest 
 
 ---
 
