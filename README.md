@@ -1,4 +1,4 @@
-# House-Price-Prediction-Using-Random-Forest
+# House Price Prediction Using Random Forest Regression Model
 
 ---
 
@@ -6,11 +6,11 @@ Our task is to use information such as the number of rooms, land size, number of
 
 ## Install
 
- Python and the following Python libraries are required:
-
-* NumPy
-* Pandas
-* scikit-learn
+* Python==3.8.2
+* NumPy==1.20.3
+* Pandas==1.2.4
+* scikit-learn== 0.24.2
+* jupyter-client==6.1.12
 
 ## Dataset
 
