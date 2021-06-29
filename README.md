@@ -14,7 +14,7 @@ Our task is to use information such as the number of rooms, land size, number of
 
 ## Dataset
 
-The Melbourne Housing dataset consists of 13580 entries, with each entry having 21 features. This dataset is provided by Kaggle, https://www.kaggle.com/dansbecker/melbourne-housing-snapshot.
+The Melbourne Housing dataset consists of 13580 entries, with each entry having 21 features. This [dataset](https://www.kaggle.com/dansbecker/melbourne-housing-snapshot) is provided by Kaggle.
 
 ### Features
 
