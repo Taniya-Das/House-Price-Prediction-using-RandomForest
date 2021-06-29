@@ -10,6 +10,7 @@ Our task is to use information such as the number of rooms, land size, number of
 * NumPy==1.20.3
 * Pandas==1.2.4
 * scikit-learn== 0.24.2
+* jupyter== 1.0.0
 * jupyter-client==6.1.12
 
 ## Dataset
