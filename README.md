@@ -21,9 +21,9 @@ The Melbourne Housing dataset consists of 13580 entries, with each entry having 
 Features include Address, Type of Real estate, Suburb, Method of Selling, Rooms, Price, Real Estate Agent, Date of Sale and distance from C.B.D.
 Target Variable 'Price': Price in dollars 
 
-## Inspiration
+## Credits
 
-[tutorials](https://www.kaggle.com/learn/intermediate-machine-learning)
+These [tutorials](https://www.kaggle.com/learn/intermediate-machine-learning) are referred while building the project.
 
 
 
