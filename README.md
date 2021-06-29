@@ -1,4 +1,4 @@
-# House-Price-Prediction-Using-Regression
+# House-Price-Prediction-Using-Random-Forest
 
 ---
 
